@@ -148,7 +148,7 @@
 
 .table__cell_theme_light {
   width: 250px;
-  margin-bottom: 60px;  
+  margin-bottom: 60px;
 }
 
 .table__heading_theme_light {
@@ -204,7 +204,7 @@
   font-size: 36px;
   font-weight: normal;
   color: #2f80ed;
-  top: 50%
+  top: 50%;
 }
 
 .kaufman {
@@ -263,22 +263,18 @@
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
-  color: white;
-  z-index: 1;
 }
 
-.table_heading_theme_dark {
+.table_text_theme_dark {
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-  color: white;
-  z-index: 1;
 }
 
 
 .kaufman__triangle {
   background-image: url(../images/kaufman-triangle.svg);
-  position: absolute; 
+  position: absolute;
   width: 877px;
   height: 877px;
   top: 0;
