@@ -1,6 +1,6 @@
 # How-to-learn
 My first learning project for Yandex Practicum.   
-HTML and CSS. This project demonstrate my skills in animations, fonts and frames.  
+HTML and CSS. This project demonstrates my skills in animations, fonts and frames.  
 - BEM methodology;
 - Blocks reuse; 
 - iframe;
